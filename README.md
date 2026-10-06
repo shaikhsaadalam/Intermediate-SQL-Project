@@ -241,28 +241,6 @@ These insights can support decisions related to **staffing, inventory management
 
 ---
 
-# 🧠 SQL Analysis Workflow
-
-The project follows a structured analytical workflow:
-
-```text
-Raw Sales Data
-      ↓
-Data Cleaning / Validation
-      ↓
-Data Processing
-      ↓
-KPI Calculation
-      ↓
-Trend Analysis
-      ↓
-Category & Product Analysis
-      ↓
-Business Insights
-```
-
----
-
 # 💡 Business Value
 
 Although the project is SQL-focused, the analysis demonstrates how transactional data can be transformed into information useful for business decision-making.
