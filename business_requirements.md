@@ -162,11 +162,3 @@ The analysis should provide insights into:
 - 🏆 Best-performing pizza products
 - 📉 Worst-performing pizza products
 
-These insights can support business decisions related to:
-
-- **Inventory planning**
-- **Staff scheduling**
-- **Menu optimization**
-- **Product strategy**
-- **Sales planning**
-- **Customer demand analysis**
