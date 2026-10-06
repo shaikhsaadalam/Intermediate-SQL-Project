@@ -74,8 +74,6 @@ Average Pizzas Per Order = Total Pizzas Sold / Total Orders
 
 # 📈 Analysis Requirements
 
-Although this is a **SQL-only project** and does not include a dashboard, the following analytical outputs must be produced using SQL queries.
-
 ## 1. 📅 Daily Trend of Total Orders
 
 Analyze the number of orders placed on each day over the available sales period.
